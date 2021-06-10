@@ -1,0 +1,25 @@
+
+we have to bypass the rule for pramodhs user whereever a block action is added ()
+we have to allow to create duplicate for pramodhs user
+
+Sandbox(Duplicate rules 7)
+Pramodh 
+Profile:Sales Manager-13
+Role:Managment-29
+
+Production (Duplicate rules 8)
+Pramodh 
+Profile:Sales Manager-1
+Role:Managment-29
+
+Need to ask pranav:
+Do i need to activate the newly created rules?
+Email and Phone Lead Duplicate Rule(Error)
+Standard Account Rule
+Contact and Lead duplicate Email and Phone Rule
+
+Created for :
+Custom Duplicate Rule - Account Name with Exact Match
+Contact only duplicate Email and Phone Rule
+Standard Contact Rule
+Email and Phone Lead and Contact Duplicate Rule	
