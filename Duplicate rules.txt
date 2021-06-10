@@ -1,6 +1,6 @@
 
 we have to bypass the rule for pramodhs user whereever a block action is added ()
-we have to allow to create duplicate for pramodhs user
+we have to allow to create duplicate for pramodhs
 
 Sandbox(Duplicate rules 7)
 Pramodh 
